@@ -2,7 +2,7 @@
 
 - **Student**
 - **Top Skills:** Electronics, Arduino, C and Python Programming
-- **Current Project:** Pomodoro with Game Application (Currently refining, links coming soon)
+- **Current Project:** 
 - **Programming Languages:** C, Python, Java
 - **Electronics Tools:** Proteus 8, Arduino, KiCAD
 - **Hobbies:** Drawing, learning guitar and Japanese, and working on personal tech-related projects
