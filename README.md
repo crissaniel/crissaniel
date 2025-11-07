@@ -1,6 +1,6 @@
 # About Me
 
-- **Student**
+- **Computer Engineering Student**
 - **Top Skills:** Electronics, Arduino, C and Python Programming
 - **Current Project:** 
 - **Programming Languages:** C, Python, Java
