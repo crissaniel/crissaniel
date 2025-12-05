@@ -2,7 +2,7 @@
 
 - **Computer Engineering Student**
 - **Top Skills:** Electronics, Arduino, C and Python Programming
-- **Current Project:** 
+- **Current Project:**  AudioHeal
 - **Programming Languages:** C, Python, Java
 - **Electronics Tools:** Proteus 8, Arduino, KiCAD
 - **Hobbies:** Drawing, learning guitar and Japanese, and working on personal tech-related projects
